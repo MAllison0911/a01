@@ -34,4 +34,7 @@ def run_tests():
 
 # Edit this code
 def print_squares(a, b):
+    for print_squares in range(1, 3,):
+        print("print_squares")
+    
 
